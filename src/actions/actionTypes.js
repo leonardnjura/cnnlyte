@@ -1,0 +1,6 @@
+export const GET_PROFILE = 'GET_PROFILE';
+export const PROFILE_RECEIVED = 'PROFILE_RECEIVED';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const PROFILE_UPDATED = 'PROFILE_UPDATED';
+export const GET_NEWS = 'GET_NEWS';
+export const NEWS_RECEIVED = 'NEWS_RECEIVED';
